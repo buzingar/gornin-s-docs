@@ -1,3 +1,3 @@
-# gornin 学习 vue
+# gornin 的学习 doc
 
 > An awesome project.

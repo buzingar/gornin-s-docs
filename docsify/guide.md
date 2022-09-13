@@ -1,4 +1,4 @@
-# docsify usage
+# docsify 使用
 
 ```bash
 npm i docsify-cli -g
