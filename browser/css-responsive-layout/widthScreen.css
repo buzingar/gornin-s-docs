@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* width screen by zhangxinxu http://www.zhangxinxu.com */
+.nav {
+  width: 15%;
+  height: 428px;
+  border-right: 1px solid #ededed;
+  background-color: #f0f3f9;
+  text-align: center;
+  float: left;
+}
+.nav h4 {
+  margin: 0;
+  *zoom: 1;
+}
+.nav a {
+  display: block;
+  padding: 8px 2em;
+}
+.nav a:hover {
+  background-color: #beceeb;
+  text-decoration: none;
+  text-shadow: 1px 1px #f0f3f9;
+}
+.nav .on {
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.5);
+  background-color: #34538b;
+  color: #fff;
+}
+.nav .on:hover {
+  background-color: #34538b;
+  text-shadow: none;
+}
+.content {
+  padding: 2em;
+  background-color: #fff;
+  text-align: center;
+}
