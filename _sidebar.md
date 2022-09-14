@@ -1,6 +1,8 @@
 - [首页](/)
 - browser
-  - [组成](browser/compose.md "浏览器组成")
+  - [浏览器组成](browser/compose.md "浏览器组成")
+  - [重排与重绘](browser/reflow-repaint.md "重排与重绘")
+  - [几种网页布局](browser/pagelayout.md)
 - JavaScript
   - [JavaScript 运行机制](javascript/event-loop.md "js运行机制")
 - 工具
