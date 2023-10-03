@@ -9,5 +9,7 @@
   - [CSR 最佳实践](javascript/CSR.md "CSR 最佳实践")
 - css
   - [下划线 hover 时变波浪线](css/wavemove.md "wave move")
+- npm
+  - [npm run](node%26npm/npm-run.md "npm run")
 - 工具
   - [docsify 使用](docsify/guide.md "docsify")
